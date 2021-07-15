@@ -1,0 +1,15 @@
+Git 
+
+Git --folder -Repository
+
+Git login
+
+move folder into git -- cd C:\Users\welcome\Desktop\sample
+git init
+git add sample.txt
+git commit -m "Updated my code"
+to copy files use Fork
+insert your files into Remote repository (test) --origin 
+git remote add origin https://github.com/Sathish-Cr/test.git
+git push -u origin master
+git add . --it will add all files into git after commit
